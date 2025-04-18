@@ -1,3 +1,4 @@
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">My name is Santiago Perez Kay and I'm a Full Stack Developer from Argentina.</p>
@@ -35,7 +36,7 @@
 ### 🔗 Connect with me
 
 <div align="left">
-  <a href="https://linkedin.com/in/santiagoperezkay" target="_blank">
+  <a href="https://www.linkedin.com/in/santiagoperezkay/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
   <a href="mailto:santiagoperezkay88@gmail.com">
