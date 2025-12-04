@@ -9,9 +9,9 @@
 ### 🧙 About Me
 
 ✨ Backend Developer & Automation Engineer  
-🛠️ Experience in Java, Spring Boot, Python, APIs REST, e-commerce (PrestaShop)  
-🤖 I build automation systems using Python + IA, and integrate services to optimize internal workflows  
-📚 Currently learning React to strengthen my full-stack skills  
+🛠️ Experience in Java, Spring Boot, Python, APIs REST, e-commerce (PrestaShop/tiendaNube)  
+🤖 I build automation systems using Python + IA, and integrate services to optimize internal workflows in N8N.  
+📚 Currently implement automation in my company
 🎯 Goal: Work full-time as a backend or full-stack developer, growing while solving real problems with clean and scalable code  
 🎲 Fun fact: My code works. I don’t know why… but it works 😵‍💫
 
@@ -40,10 +40,12 @@
 ### 🚀 Experience
 
 #### **Calzalindo — Backend & Automation Developer / Web Admin**
+- Automation with n8n
 - Development of Python automation scripts  
-- Maintenance & optimization of e-commerce (PrestaShop)  
-- Reporting scripts (Python + Pandas)  
-- Technical support and integration of internal systems  
+- Maintenance & optimization of e-commerce (PrestaShop/tiendanube)  
+- Reporting scripts (Python )  
+- Technical support and integration of internal systems
+- Creation and maintenance of databases in Supabase/postgresql
 
 #### **Casa Diez — Freelance Developer**
 - Python automation for data extraction and auto-messaging  
