@@ -1,7 +1,7 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">My name is Santiago Perez Kay and I'm a Full Stack Developer from Argentina.</p>
+<p align="left">  My name is Santiago Perez Kay, I'm a Backend Developer from Argentina, and I also specialize in automation development.</p>
 
 ---
 
